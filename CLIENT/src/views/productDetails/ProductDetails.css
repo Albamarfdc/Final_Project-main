@@ -1,0 +1,103 @@
+.principal-box {
+    height: 31rem;
+    background-color: #E0AED0;
+    padding-top: 2px;
+    margin: 2rem;
+    min-width: 70rem;
+}
+
+.pdcontainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    min-width: 70rem;
+}
+
+.wholespace {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.miniatures {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#big-photo {
+    display: flex;
+    margin-right: 1rem;
+    max-width: 25rem;
+    max-height: 25rem;
+    padding: 60px 0 0 0;
+}
+
+.big-img {
+    width: 25rem;
+    border-radius: 5px;
+    box-shadow: 6px 6px 8px rgb(133, 18, 18);
+}
+
+.mini-img {
+    width:10rem;
+    background-color: #FFE5E5;
+    border: #E0AED0;
+    border-radius: 5px;
+    margin: 0px 0px 2px 0px;
+    padding: 0;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto mono';
+    width: 40rem;
+}
+
+.icons {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #756AB6;
+}
+
+.action {
+    margin: 0 5px 0 5px;
+}
+
+.title-name {
+    font-size: 2rem;
+    margin: 0 0 10px 0;
+}
+
+.description {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.price {
+    font-weight: bolder;
+    font-size: 25px;
+    margin-left: 13rem;
+}
+
+#addCart {
+    width: 15rem;
+    margin: 2rem 0 0 20rem;
+}
+
+.stock {
+    font-weight: bolder;
+    font-size: 1.2rem;
+    margin: 2rem 0 0 1rem;
+}
+
+.count {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items:end;
+}

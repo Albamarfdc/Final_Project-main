@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "title": "Magic The Gathering! deck box",
+    "price": 1170,
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "stock": 1168,
+    "image_url": "https://images.ctfassets.net/s5n2t79q9icq/1z13R9mGzDfdRrp6f4bEtx/4dbed6b57bc6ff7c1fe7bd0033a52da1/48njalb3udbhaj8.png",
+    "category": "TCG",
+    "liked": false
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "title": "Pokemon trading card game booster pack",
+    "price": 340,
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "stock": 5316,
+    "image_url": "https://image.made-in-china.com/202f0j00UcZbjTpzOtki/Hot-Sale-English-French-Spanish-Pokemon-Booster-Card-Box-Pokemon-Card.webp",
+    "category": "TCG",
+    "liked": false
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "title": "Marvel Legends action figure",
+    "price": 792,
+    "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "stock": 1422,
+    "image_url": "https://images.thedirect.com/media/article_full/marvel-legends.jpg",
+    "category": "Álbumes y Láminas",
+    "liked": false
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "title": "Dungeons & Dragons dice set",
+    "price": 436,
+    "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "stock": 5964,
+    "image_url": "https://i.etsystatic.com/17850170/r/il/deea35/1601587900/il_570xN.1601587900_edal.jpg",
+    "category": "Figuras Coleccionables",
+    "liked": false
+  },
+  {
+    "id": 5,
+    "user_id": 5,
+    "title": "Pokemon trading card game booster pack",
+    "price": 969,
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "stock": 7021,
+    "image_url": "https://www.denofgeek.com/wp-content/uploads/2020/11/amazing-rare-pokemon-cards-main.jpg?fit=1200%2C675",
+    "category": "Álbumes y Láminas",
+    "liked": false
+  },
+  {
+    "id": 6,
+    "user_id": 6,
+    "title": "Board game expansion pack",
+    "price": 243,
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "stock": 1710,
+    "image_url": "http://dummyimage.com/950x625.png/cc0000/ffffff",
+    "category": "TCG",
+    "liked": false
+  },
+  {
+    "id": 7,
+    "user_id": 7,
+    "title": "Pokemon trading card game booster pack",
+    "price": 771,
+    "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "stock": 8935,
+    "image_url": "http://dummyimage.com/950x625.png/ff4444/ffffff",
+    "category": "Juegos de Mesa",
+    "liked": false
+  },
+  {
+    "id": 8,
+    "user_id": 8,
+    "title": "Funko Pop figure",
+    "price": 3,
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "stock": 5526,
+    "image_url": "http://dummyimage.com/950x625.png/5fa2dd/ffffff",
+    "category": "Mangas y Cómics",
+    "liked": false
+  },
+  {
+    "id": 9,
+    "user_id": 9,
+    "title": "Marvel Legends action figure",
+    "price": 63,
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "stock": 880,
+    "image_url": "http://dummyimage.com/950x625.png/5fa2dd/ffffff",
+    "category": "Álbumes y Láminas",
+    "liked": false
+  },
+  {
+    "id": 10,
+    "user_id": 10,
+    "title": "Yu-Gi-Oh! deck box",
+    "price": 221,
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "stock": 2782,
+    "image_url": "http://dummyimage.com/950x625.png/cc0000/ffffff",
+    "category": "Álbumes y Láminas",
+    "liked": false
+  },
+  {
+    "id": 11,
+    "user_id": 11,
+    "title": "Magic: The Gathering card set",
+    "price": 783,
+    "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+    "stock": 2197,
+    "image_url": "http://dummyimage.com/950x625.png/cc0000/ffffff",
+    "category": "Figuras Coleccionables",
+    "liked": false
+  },
+  {
+    "id": 12,
+    "user_id": 12,
+    "title": "Board game expansion pack",
+    "price": 168,
+    "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "stock": 1013,
+    "image_url": "http://dummyimage.com/950x625.png/5fa2dd/ffffff",
+    "category": "Mangas y Cómics",
+    "liked": false
+  },
+  {
+    "id": 13,
+    "user_id": 13,
+    "title": "Magic: The Gathering card set",
+    "price": 930,
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "stock": 997,
+    "image_url": "http://dummyimage.com/950x625.png/dddddd/000000",
+    "category": "Figuras Coleccionables",
+    "liked": false
+  },
+  {
+    "id": 14,
+    "user_id": 14,
+    "title": "Board game expansion pack",
+    "price": 822,
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "stock": 6805,
+    "image_url": "http://dummyimage.com/950x625.png/dddddd/000000",
+    "category": "Mangas y Cómics",
+    "liked": false
+  },
+  {
+    "id": 15,
+    "user_id": 15,
+    "title": "Board game expansion pack",
+    "price": 401,
+    "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "stock": 2012,
+    "image_url": "http://dummyimage.com/950x625.png/dddddd/000000",
+    "category": "Álbumes y Láminas",
+    "liked": false
+  },
+  {
+    "id": 16,
+    "user_id": 16,
+    "title": "Pokemon trading card game booster pack",
+    "price": 63,
+    "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+    "stock": 207,
+    "image_url": "http://dummyimage.com/950x625.png/ff4444/ffffff",
+    "category": "Juegos de Mesa",
+    "liked": false
+  },
+  {
+    "id": 17,
+    "user_id": 17,
+    "title": "Pokemon trading card game booster pack",
+    "price": 583,
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "stock": 577,
+    "image_url": "http://dummyimage.com/950x625.png/5fa2dd/ffffff",
+    "category": "Juegos de Mesa",
+    "liked": false
+  },
+  {
+    "id": 18,
+    "user_id": 18,
+    "title": "Dungeons & Dragons dice set",
+    "price": 737,
+    "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "stock": 955,
+    "image_url": "http://dummyimage.com/950x625.png/5fa2dd/ffffff",
+    "category": "Juegos de Mesa",
+    "liked": false
+  },
+  {
+    "id": 19,
+    "user_id": 19,
+    "title": "Trading card game playmat",
+    "price": 7,
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "stock": 1633,
+    "image_url": "http://dummyimage.com/950x625.png/5fa2dd/ffffff",
+    "category": "Mangas y Cómics",
+    "liked": false
+  },
+  {
+    "id": 20,
+    "user_id": 20,
+    "title": "Board game expansion pack",
+    "price": 586,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+    "stock": 8416,
+    "image_url": "http://dummyimage.com/950x625.png/ff4444/ffffff",
+    "category": "Mangas y Cómics",
+    "liked": false
+  }
+]

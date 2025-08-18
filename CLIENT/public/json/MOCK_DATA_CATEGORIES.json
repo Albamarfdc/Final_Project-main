@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Juegos de Mesa"
+  },
+  {
+    "id": 2,
+    "name": "TCG"
+  },
+  {
+    "id": 3,
+    "name": "Figuras Coleccionables"
+  },
+  {
+    "id": 4,
+    "name": "Mangas y Cómics"
+  },
+  {
+    "id": 5,
+    "name": "Álbunes y Láminas"
+  }
+]

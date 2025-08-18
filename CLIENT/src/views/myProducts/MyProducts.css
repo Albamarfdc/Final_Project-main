@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.twosection {
+   /*  background-color: rgb(52, 135, 135); */
+    width: 100%;
+    height: 47rem;
+    margin-top: 2rem;
+}
+
+.trio {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+#products {
+    width: 30rem;
+    height: 40rem;
+    overflow-y:scroll;
+    box-sizing: border-box;
+    margin: 2rem 0 0 0;
+    display: flex;
+    padding: 0;
+    background-color: #E0AED0;
+    border: 3px solid #4230a9;
+    border-radius: 5px;
+    box-shadow: 1px 5px 15px #1e0e3e;
+    color: #4230a9;
+}
+
+#separator {
+    width: min-content;
+}
+
+.product {
+    height: 43rem;
+}
+
+#product {
+    background-color: rgb(255, 255, 255);
+    width: 27rem;
+    height: 18rem;
+    margin: 1rem;
+    padding: 0 5px 0 5px;
+}
+
+.productDark {
+    font-weight: bolder;
+}
+
+.productDescription {
+    max-height: 6rem;
+}
+
+.productImg {
+    max-width: 203px;
+    max-height: 240px;
+    border-radius: 5PX;
+}
+
+#my-products {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
+#interaction {
+    color: #1e0e3e;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.interaction {
+    color: #4230a9;
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+.interaction:hover {
+    color: #4230a9;
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+.horizontal {
+    border-right: 2px solid black;
+    width: 5rem;
+}
+
+.vertical {
+    border-right: 2px solid #AC87C5;
+    height: 47rem;
+}
+
+#post {
+    width: 30rem;
+}
+
+.new-product {
+    background-color: #E0AED0;
+    margin: 2rem 0 20px 0;
+    padding: 20px;
+    gap: 40px;
+    border: 3px solid #4230a9;
+    box-shadow: 1px 5px 15px #1e0e3e;
+    height: 40rem;
+}
+
+.new-product :last-child {
+    height: 3rem;
+}
+
+#publish-now {
+    color: #4230a9;
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+.publishBtn {
+    margin-top: 110px;
+}
+
+.description {
+    min-height: 3rem;
+    max-height: 8rem;
+    min-width: 25.5rem;
+}
+
+.formRow1 {
+    height: 48px;
+}
+
+.formRow3 {
+    height: 48px;
+}
+
+body {
+    scrollbar-width: thin;
+    scrollbar-color: #756AB6 #FFE5E5; 
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #756AB6;
+    border-radius: 10px;
+    border: 2px solid #FFE5E5;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #FFE5E5;
+    border-radius: 10px;
+}

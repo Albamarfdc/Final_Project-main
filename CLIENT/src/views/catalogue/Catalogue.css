@@ -1,0 +1,110 @@
+/* gallery */
+.gallery {
+    grid-area: b;
+    display: grid;
+    gap: 10px;
+    position: relative;
+  }
+  
+  .grid-columns-5 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .gallery .productCard {
+    padding: 10px 10px 0px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: flex-start;
+    height: 200px;
+    background-size:cover;
+    background-position:top;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: left;
+    text-shadow: 0px 0px 15px black;
+    -webkit-transition: 0.3s linear;
+    transition: 0.3s ease-in;
+    border-radius: 0px;
+    -webkit-transition: 0.3s linear;
+    transition: 0.3s ease-in
+  }
+  
+  .gallery .productCard:hover {
+    box-shadow: 0px 0px 2px 1px red;
+    -webkit-box-shadow: 10px 10px 14px 2px #AC87C5;
+    box-shadow: 0px 0px 5px 4px #AC87C5;
+    border-radius: 5px;
+    background-size:contain;
+  }
+  
+  .gallery .productCard svg {
+    align-self: flex-end;
+  }
+  
+  .p-3 {
+    padding: 30px;
+  }
+
+  aside{
+    grid-area: a;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 200px;
+    justify-content: flex-start;
+    align-items: start;
+    margin-left: 10px;
+  }
+
+  aside h3 {
+    margin: 0 0 20px 50px;
+    padding-top: 10px;
+  }
+
+  aside p {
+    margin: 0;
+    padding-top: 12px;
+    color: #FFE5E5;
+  }
+
+  article {
+    display: flex;
+  }
+
+  article a {
+    text-decoration: none;
+  }
+
+  .cantidad {
+    padding-left: 5px;
+    color: rgb(147, 145, 145);
+  }
+
+  .d-flex{
+    grid-area: c;
+    justify-content: end;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-areas:
+      "c c"
+      "a b"
+      "a b";
+    grid-template-rows: 0.01fr 1fr 0.99fr;
+    grid-template-columns: 0.2fr 0.8fr;
+    gap: 1px;
+    color: #FFE5E5;
+  }
+
+  .likeBtn {
+    width: 74.2px;
+    position: absolute;
+    display: inline-block;
+    top: 0;
+    right: 0;
+  }
+
+  .cardCatalogue {
+    position: relative;
+  }

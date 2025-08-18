@@ -1,0 +1,14 @@
+a {
+  cursor: pointer
+}
+
+.title-name {
+  margin-bottom: var(--bs-card-title-spacer-y);
+  color: #4230a9;
+  font-size: 2rem;
+  margin-bottom: 30px;    
+}
+
+.title-menu {
+  color: black;
+}

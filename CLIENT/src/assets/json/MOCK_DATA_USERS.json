@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "firstName": "Allen",
+    "lastName": "Escoffrey",
+    "address": "7 Oriole Plaza",
+    "phoneNumber": "9516610986",
+    "password": "cE2\"<u.%EhrM",
+    "email": "aescoffrey0@tuttocitta.it",
+    "photoUrl": "http://dummyimage.com/221x100.png/dddddd/000000"
+  },
+  {
+    "id": 2,
+    "firstName": "Dede",
+    "lastName": "Pilch",
+    "address": "417 Michigan Center",
+    "phoneNumber": "4103791877",
+    "password": "gU4'Y6xqg=5G?",
+    "email": "dpilch1@ucsd.edu",
+    "photoUrl": "http://dummyimage.com/216x100.png/dddddd/000000"
+  },
+  {
+    "id": 3,
+    "firstName": "Lillis",
+    "lastName": "Redsull",
+    "address": "54 South Alley",
+    "phoneNumber": "7941797884",
+    "password": "vG4/!`.#C<apL*0>",
+    "email": "lredsull2@homestead.com",
+    "photoUrl": "http://dummyimage.com/164x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 4,
+    "firstName": "Francoise",
+    "lastName": "Skerme",
+    "address": "251 Fairview Terrace",
+    "phoneNumber": "1943665733",
+    "password": "gR2)(|B}/Aj8Mj)p",
+    "email": "fskerme3@surveymonkey.com",
+    "photoUrl": "http://dummyimage.com/138x100.png/dddddd/000000"
+  },
+  {
+    "id": 5,
+    "firstName": "Stillman",
+    "lastName": "Brightwell",
+    "address": "56 Dexter Lane",
+    "phoneNumber": "6327016673",
+    "password": "gQ2.?+}w+",
+    "email": "sbrightwell4@ftc.gov",
+    "photoUrl": "http://dummyimage.com/107x100.png/ff4444/ffffff"
+  },
+  {
+    "id": 6,
+    "firstName": "Danna",
+    "lastName": "Bottini",
+    "address": "3 Shoshone Court",
+    "phoneNumber": "2448513933",
+    "password": "hL0$B,}6*o",
+    "email": "dbottini5@timesonline.co.uk",
+    "photoUrl": "http://dummyimage.com/181x100.png/ff4444/ffffff"
+  },
+  {
+    "id": 7,
+    "firstName": "Benjamen",
+    "lastName": "Lowthorpe",
+    "address": "54126 Moose Center",
+    "phoneNumber": "9758510600",
+    "password": "gW2<V+o}<*U.1..U",
+    "email": "blowthorpe6@wikimedia.org",
+    "photoUrl": "http://dummyimage.com/244x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 8,
+    "firstName": "Loralyn",
+    "lastName": "Askell",
+    "address": "95263 Talisman Center",
+    "phoneNumber": "9802223179",
+    "password": "lL2(s?\\S",
+    "email": "laskell7@goodreads.com",
+    "photoUrl": "http://dummyimage.com/196x100.png/dddddd/000000"
+  },
+  {
+    "id": 9,
+    "firstName": "Marthena",
+    "lastName": "Donnellan",
+    "address": "518 Kipling Way",
+    "phoneNumber": "7061471457",
+    "password": "oB8+,nt+",
+    "email": "mdonnellan8@shinystat.com",
+    "photoUrl": "http://dummyimage.com/172x100.png/dddddd/000000"
+  }
+]

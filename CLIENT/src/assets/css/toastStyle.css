@@ -1,0 +1,29 @@
+/* Notificación de éxito */
+.Toastify__toast--success {
+    background-color: #4caf50 !important; /* Verde */
+    color: #ffffff !important; /* Blanco */
+  }
+  
+  /* Notificación de error */
+  .Toastify__toast--error {
+    background-color: crimson !important; /* Rojo */
+    color: #ffffff !important; /* Blanco */
+  }
+  
+  /* Notificación de advertencia */
+  .Toastify__toast--warn {
+    background-color: #ff9800 !important; /* Naranja */
+    color: #ffffff !important; /* Blanco */
+  }
+  
+  /* Notificación informativa */
+  .Toastify__toast--info {
+    background-color: #756AB6 !important; /* Azul */
+    color: #ffffff !important; /* Blanco */
+  }
+  
+  /* Notificación por defecto */
+  .Toastify__toast--default {
+    background-color: #323232 !important; /* Gris oscuro */
+    color: #ffffff !important; /* Blanco */
+  }

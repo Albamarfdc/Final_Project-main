@@ -1,0 +1,25 @@
+.principalfooter {
+    background-color: #756AB6;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    color: #FFE5E5;
+    font-size: 12px;
+}
+
+a.active {
+    color: #FFE5E5;
+    text-decoration: none;
+}
+
+.logo-img {
+    width: 200px;
+}
+
+.footerlink {
+    color: #FFE5E5;
+}
+
+a {
+    text-decoration: none;
+    color: #FFE5E5;
+}

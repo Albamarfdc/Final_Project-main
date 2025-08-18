@@ -1,0 +1,23 @@
+.containerLike{
+    display: flex;
+    flex-direction: column;
+}
+
+.likeContainer {
+    background-color: #E0AED0;
+    color: black;
+    border-radius: 5px;
+}
+
+section {
+    gap: 25px;
+    margin-left: 150px;
+}
+
+.wholeLike {
+    min-height: 160px;
+}
+
+.likeDescription {
+    max-width: 17rem;
+}
