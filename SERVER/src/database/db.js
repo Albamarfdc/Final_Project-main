@@ -10,8 +10,7 @@ const config = {
   password: DB_PASSWORD,
   database: DB_DATABASE,
   allowExitOnIdle: true,
-
-  // connectionString: DB_URL
+connectionString: DB_URL
 }
 
 const pool = new Pool(config)
