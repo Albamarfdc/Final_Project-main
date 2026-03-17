@@ -1,1 +1,1 @@
-export const URLBASE = import.meta.env.VITE_URL_BACKEND ?? 'https://final-project-main.onrender.com'
+export const URLBASE = import.meta.env.VITE_URL_BACKEND ?? 'https://final-project-main-ydnp.onrender.com/'
